@@ -1,26 +1,21 @@
 E-commerce Data Platform
 
-Pipeline de engenharia de dados para ingestão, processamento e carga de dados de e-commerce (produtos), construído em Python com PostgreSQL como banco de destino.
+Data engineering pipeline for ingesting, processing, and loading e-commerce (product) data, built in Python with PostgreSQL as the target database.
 
-Sobre o projeto
+About the project
 
-Este projeto implementa um pipeline ETL que extrai dados brutos de produtos (formato JSON), processa e organiza essas informações em camadas de staging, e realiza a carga estruturada em um banco de dados PostgreSQL usando psycopg2.
+This project implements an ETL pipeline that extracts raw product data (JSON format), processes and organizes this information into staging layers, and performs structured loading into a PostgreSQL database using psycopg2.
 
-O objetivo é praticar e demonstrar conceitos de engenharia de dados: modelagem, staging, validação de qualidade de dados e ETL multi-tabela.
+The goal is to practice and demonstrate data engineering concepts: data modeling, staging, data quality validation, and multi-table ETL.
 
+Raw: raw product data is stored as JSON, with no transformation
+Staging: data is separated and organized into intermediate files by domain (dimensions, images, metadata)
+Load: staging data is loaded into PostgreSQL through Python scripts using psycopg2, following the mapping between source fields and database columns
 
-O fluxo segue o padrão:
+Tech stack:
 
-Raw → Staging → Banco de dados (PostgreSQL)
-
-Raw: dados brutos de produtos são armazenados como JSON, sem transformação
-Staging: os dados são separados e organizados em arquivos intermediários por domínio (dimensões, imagens, metadados)
-Load: os dados de staging são carregados no PostgreSQL através de scripts Python com psycopg2, respeitando o mapeamento entre campos de origem e colunas do banco
-
-
-🛠️ Tecnologias utilizadas:
-Python — linguagem principal do pipeline
-psycopg2 — conexão e carga de dados no PostgreSQL
-PostgreSQL — banco de dados relacional de destino
-Docker Compose — orquestração do ambiente de banco de dados
-pandas / numpy — manipulação e transformação de dados"
+Python — main pipeline language
+psycopg2 — connection and data loading into PostgreSQL
+PostgreSQL — target relational database
+Docker Compose — database environment orchestration
+pandas / numpy — data manipulation and transformation
