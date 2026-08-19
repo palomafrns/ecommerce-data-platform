@@ -1,0 +1,1360 @@
+[
+  {
+    "product_id": 1,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5784719087687",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 2,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9170275171413",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 3,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8418883906837",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 4,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9467746727219",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 5,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4063010628104",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 6,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2451534060749",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 7,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4091737746820",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 8,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1445086097250",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 9,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3023868210708",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 10,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3170832177880",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 11,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3610757456581",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 12,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1777662847736",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 13,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6441287925979",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 14,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8919386859966",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 15,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1958104402873",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 16,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7962803553314",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 17,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5640063409695",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 18,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1483991328610",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 19,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8829514594521",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 20,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4874727824518",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 21,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5300066378225",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 22,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5906686116469",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 23,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3478638588469",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 24,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9595036192098",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 25,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2365227493323",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 26,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9335000538563",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 27,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6354306346329",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 28,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "0788954559076",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 29,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6936112580956",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 30,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2530169917252",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 31,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4871812433378",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 32,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9835034508303",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 33,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2206629068605",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 34,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8572637994159",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 35,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3590399655074",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 36,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "0435397154434",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 37,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4716374115631",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 38,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7339757397015",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 39,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2991169581178",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 40,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "0792647462295",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 41,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9446468291745",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 42,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2409829645213",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 43,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9646971048759",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 44,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5398738320864",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 45,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8433795204995",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 46,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8477070578398",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 47,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8806138916048",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 48,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3988181417733",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 49,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5606164195748",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 50,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3112495795209",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 51,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4823087836817",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 52,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1810862118199",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 53,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "0085585730728",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 54,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2231952604189",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 55,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6456249953517",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 56,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7534096777716",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 57,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8181672477425",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 58,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2851192866410",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 59,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4900880403720",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 60,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2542647841284",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 61,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1980575898457",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 62,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9123541111825",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 63,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7119606190291",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 64,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2258278927819",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 65,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3287134465440",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 66,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7578271198951",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 67,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4136081478055",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 68,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5159803862015",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 69,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8084753475328",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 70,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1919888449594",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 71,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9757232943842",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 72,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4396291569672",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 73,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6149284465708",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 74,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7769627934740",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 75,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5239514403214",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 76,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6934305212813",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 77,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8946155386929",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 78,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5275211560367",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 79,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7392988535158",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 80,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "0592296671061",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 81,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5506742916764",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 82,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5963805976904",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 83,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7148674604957",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 84,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1654388837068",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 85,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2821496314023",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 86,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9995865660204",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 87,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9680331363394",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 88,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7631625812393",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 89,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2449851358796",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 90,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9715091831404",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 91,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6740319943645",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 92,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "0430266023617",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 93,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4027206714862",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 94,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5984080925625",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 95,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "9663455783895",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 96,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1957304538726",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 97,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8893788734644",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 98,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7133320173118",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 99,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2256117192038",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 100,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1104115683955",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 101,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4062176053732",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 102,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3323662242939",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 103,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6135642608024",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 104,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "0879776541417",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 105,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "5157424897794",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 106,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3921248718888",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 107,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1741271692174",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 108,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "8156838251449",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 109,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2915346477518",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 110,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "4372781189895",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 111,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7063982050226",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 112,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1488782082307",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 113,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "2304118422941",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 114,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "7320871299196",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 115,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "1635178066049",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 116,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6595209798181",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 117,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8451323904420",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 118,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "3566048905322",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 119,
+    "created_at": "2025-04-30T09:41:02.053Z",
+    "updated_at": "2025-04-30T09:41:02.053Z",
+    "barcode": "6532659691643",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 120,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8483207319090",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 121,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8814683940853",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 122,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "9922357685013",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 123,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4998438802308",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 124,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "3034949322264",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 125,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0651223722522",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 126,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8576893968169",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 127,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "3106827888743",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 128,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "7825844344364",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 129,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4948452391831",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 130,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6151817227632",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 131,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "7557912146622",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 132,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "5995499013336",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 133,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4676898229465",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 134,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8575699153333",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 135,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4295398764784",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 136,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "9944308291810",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 137,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0984311727547",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 138,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8981184448425",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 139,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "1607433635330",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 140,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "3219724919696",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 141,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6916173283925",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 142,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0027512125380",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 143,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "1225217575490",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 144,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "2192738034162",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 145,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "9514466946651",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 146,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "5360325610488",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 147,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "7605305555987",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 148,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6940117186155",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 149,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4196059523236",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 150,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "7296388268295",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 151,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "2793132647969",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 152,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "5611498376196",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 153,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6348576170594",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 154,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "1045032983803",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 155,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "5771263118885",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 156,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0635466237296",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 157,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8806276971112",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 158,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8850931201716",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 159,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6267995330420",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 160,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "5021907981204",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 161,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "3477850755498",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 162,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6410441827139",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 163,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6273976484433",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 164,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "5201099489825",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 165,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "2022014761829",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 166,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "3383823083995",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 167,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "6337799339397",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 168,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0376498933302",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 169,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8578515136594",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 170,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "7539220768239",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 171,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "2500742117107",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 172,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0558998280008",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 173,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4616258239513",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 174,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "9614237439330",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 175,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8983558170212",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 176,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4283648448769",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 177,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0630346013554",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 178,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "2931500162745",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 179,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "9336695899390",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 180,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8142375980193",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 181,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "7479689140965",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 182,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "1680580323411",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 183,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4782555577213",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 184,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "7759380216135",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 185,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "5732146194724",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 186,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0196443645959",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 187,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "0365072601388",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 188,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "9686058230535",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 189,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "5817762883655",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 190,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "7438522857639",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 191,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "4608359670564",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 192,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "1265605585958",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 193,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "8333241081413",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  {
+    "product_id": 194,
+    "created_at": "2025-04-30T09:41:02.054Z",
+    "updated_at": "2025-04-30T09:41:02.054Z",
+    "barcode": "2093537854573",
+    "qr_code": "https://cdn.dummyjson.com/public/qr-code.png"
+  }
+]

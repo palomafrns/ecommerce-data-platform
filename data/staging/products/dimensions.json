@@ -1,0 +1,1166 @@
+[
+  {
+    "product_id": 1,
+    "width": 15.14,
+    "height": 13.08,
+    "depth": 22.99
+  },
+  {
+    "product_id": 2,
+    "width": 9.26,
+    "height": 22.47,
+    "depth": 27.67
+  },
+  {
+    "product_id": 3,
+    "width": 29.27,
+    "height": 27.93,
+    "depth": 20.59
+  },
+  {
+    "product_id": 4,
+    "width": 18.11,
+    "height": 28.38,
+    "depth": 22.17
+  },
+  {
+    "product_id": 5,
+    "width": 21.63,
+    "height": 16.48,
+    "depth": 29.84
+  },
+  {
+    "product_id": 6,
+    "width": 29.36,
+    "height": 27.76,
+    "depth": 20.72
+  },
+  {
+    "product_id": 7,
+    "width": 24.5,
+    "height": 25.7,
+    "depth": 25.98
+  },
+  {
+    "product_id": 8,
+    "width": 27.67,
+    "height": 28.28,
+    "depth": 11.83
+  },
+  {
+    "product_id": 9,
+    "width": 27.28,
+    "height": 29.88,
+    "depth": 18.3
+  },
+  {
+    "product_id": 10,
+    "width": 20.92,
+    "height": 21.68,
+    "depth": 11.2
+  },
+  {
+    "product_id": 11,
+    "width": 28.16,
+    "height": 25.36,
+    "depth": 17.28
+  },
+  {
+    "product_id": 12,
+    "width": 12.75,
+    "height": 20.55,
+    "depth": 19.06
+  },
+  {
+    "product_id": 13,
+    "width": 13.47,
+    "height": 24.99,
+    "depth": 27.35
+  },
+  {
+    "product_id": 14,
+    "width": 13.81,
+    "height": 7.5,
+    "depth": 5.62
+  },
+  {
+    "product_id": 15,
+    "width": 7.98,
+    "height": 8.88,
+    "depth": 28.46
+  },
+  {
+    "product_id": 16,
+    "width": 13.66,
+    "height": 11.01,
+    "depth": 9.73
+  },
+  {
+    "product_id": 17,
+    "width": 18.9,
+    "height": 5.77,
+    "depth": 18.57
+  },
+  {
+    "product_id": 18,
+    "width": 18.08,
+    "height": 9.26,
+    "depth": 21.86
+  },
+  {
+    "product_id": 19,
+    "width": 11.03,
+    "height": 22.11,
+    "depth": 16.01
+  },
+  {
+    "product_id": 20,
+    "width": 19.95,
+    "height": 27.54,
+    "depth": 24.86
+  },
+  {
+    "product_id": 21,
+    "width": 12.8,
+    "height": 28.38,
+    "depth": 21.34
+  },
+  {
+    "product_id": 22,
+    "width": 16.93,
+    "height": 27.15,
+    "depth": 9.29
+  },
+  {
+    "product_id": 23,
+    "width": 11.42,
+    "height": 7.44,
+    "depth": 16.95
+  },
+  {
+    "product_id": 24,
+    "width": 14.95,
+    "height": 26.31,
+    "depth": 11.27
+  },
+  {
+    "product_id": 25,
+    "width": 15.33,
+    "height": 26.65,
+    "depth": 14.44
+  },
+  {
+    "product_id": 26,
+    "width": 15.38,
+    "height": 18.12,
+    "depth": 19.92
+  },
+  {
+    "product_id": 27,
+    "width": 9.28,
+    "height": 21.72,
+    "depth": 17.74
+  },
+  {
+    "product_id": 28,
+    "width": 14.83,
+    "height": 15.07,
+    "depth": 24.2
+  },
+  {
+    "product_id": 29,
+    "width": 18.56,
+    "height": 21.46,
+    "depth": 28.02
+  },
+  {
+    "product_id": 30,
+    "width": 19.4,
+    "height": 18.67,
+    "depth": 17.13
+  },
+  {
+    "product_id": 31,
+    "width": 23.77,
+    "height": 9.22,
+    "depth": 12.05
+  },
+  {
+    "product_id": 32,
+    "width": 12.92,
+    "height": 15.76,
+    "depth": 11.29
+  },
+  {
+    "product_id": 33,
+    "width": 12.8,
+    "height": 18.54,
+    "depth": 6.31
+  },
+  {
+    "product_id": 34,
+    "width": 20.54,
+    "height": 29.49,
+    "depth": 29.2
+  },
+  {
+    "product_id": 35,
+    "width": 22.65,
+    "height": 9.83,
+    "depth": 21.75
+  },
+  {
+    "product_id": 36,
+    "width": 9.01,
+    "height": 12.53,
+    "depth": 22.35
+  },
+  {
+    "product_id": 37,
+    "width": 16.01,
+    "height": 24.96,
+    "depth": 12.74
+  },
+  {
+    "product_id": 38,
+    "width": 17.21,
+    "height": 9.88,
+    "depth": 17.16
+  },
+  {
+    "product_id": 39,
+    "width": 19.75,
+    "height": 6.79,
+    "depth": 9.33
+  },
+  {
+    "product_id": 40,
+    "width": 28.18,
+    "height": 21.25,
+    "depth": 28.54
+  },
+  {
+    "product_id": 41,
+    "width": 18.75,
+    "height": 17.58,
+    "depth": 12.43
+  },
+  {
+    "product_id": 42,
+    "width": 18.43,
+    "height": 7.4,
+    "depth": 17.79
+  },
+  {
+    "product_id": 43,
+    "width": 23.84,
+    "height": 15.19,
+    "depth": 26.05
+  },
+  {
+    "product_id": 44,
+    "width": 17.27,
+    "height": 14.81,
+    "depth": 29.11
+  },
+  {
+    "product_id": 45,
+    "width": 8.55,
+    "height": 14.62,
+    "depth": 17.25
+  },
+  {
+    "product_id": 46,
+    "width": 9.83,
+    "height": 20.28,
+    "depth": 13.49
+  },
+  {
+    "product_id": 47,
+    "width": 8.98,
+    "height": 13.41,
+    "depth": 5.65
+  },
+  {
+    "product_id": 48,
+    "width": 21.32,
+    "height": 23.03,
+    "depth": 25.94
+  },
+  {
+    "product_id": 49,
+    "width": 5.88,
+    "height": 5.11,
+    "depth": 10.03
+  },
+  {
+    "product_id": 50,
+    "width": 13.03,
+    "height": 5.99,
+    "depth": 20.64
+  },
+  {
+    "product_id": 51,
+    "width": 9.05,
+    "height": 19.45,
+    "depth": 17.59
+  },
+  {
+    "product_id": 52,
+    "width": 27.69,
+    "height": 7.54,
+    "depth": 10.11
+  },
+  {
+    "product_id": 53,
+    "width": 15.6,
+    "height": 6.93,
+    "depth": 8.51
+  },
+  {
+    "product_id": 54,
+    "width": 17.16,
+    "height": 26.8,
+    "depth": 16.29
+  },
+  {
+    "product_id": 55,
+    "width": 10.81,
+    "height": 19.15,
+    "depth": 13.18
+  },
+  {
+    "product_id": 56,
+    "width": 24.17,
+    "height": 22.55,
+    "depth": 27.49
+  },
+  {
+    "product_id": 57,
+    "width": 18.02,
+    "height": 13.23,
+    "depth": 15.92
+  },
+  {
+    "product_id": 58,
+    "width": 12.3,
+    "height": 25.91,
+    "depth": 22.57
+  },
+  {
+    "product_id": 59,
+    "width": 20.23,
+    "height": 24.56,
+    "depth": 26.97
+  },
+  {
+    "product_id": 60,
+    "width": 6.32,
+    "height": 23.11,
+    "depth": 24.64
+  },
+  {
+    "product_id": 61,
+    "width": 27.31,
+    "height": 21,
+    "depth": 24.27
+  },
+  {
+    "product_id": 62,
+    "width": 26.67,
+    "height": 18.14,
+    "depth": 5.31
+  },
+  {
+    "product_id": 63,
+    "width": 20.68,
+    "height": 6.5,
+    "depth": 7.86
+  },
+  {
+    "product_id": 64,
+    "width": 25.19,
+    "height": 18.52,
+    "depth": 20.5
+  },
+  {
+    "product_id": 65,
+    "width": 12.45,
+    "height": 19.08,
+    "depth": 8.24
+  },
+  {
+    "product_id": 66,
+    "width": 16.31,
+    "height": 27.45,
+    "depth": 13.05
+  },
+  {
+    "product_id": 67,
+    "width": 18.99,
+    "height": 27.14,
+    "depth": 27.29
+  },
+  {
+    "product_id": 68,
+    "width": 17.14,
+    "height": 21.7,
+    "depth": 25.75
+  },
+  {
+    "product_id": 69,
+    "width": 16.46,
+    "height": 5.39,
+    "depth": 13.15
+  },
+  {
+    "product_id": 70,
+    "width": 22.86,
+    "height": 26.2,
+    "depth": 17
+  },
+  {
+    "product_id": 71,
+    "width": 21.03,
+    "height": 11.7,
+    "depth": 6.69
+  },
+  {
+    "product_id": 72,
+    "width": 14.41,
+    "height": 27.15,
+    "depth": 14.76
+  },
+  {
+    "product_id": 73,
+    "width": 28.06,
+    "height": 22.43,
+    "depth": 26.34
+  },
+  {
+    "product_id": 74,
+    "width": 8.49,
+    "height": 26.04,
+    "depth": 27.78
+  },
+  {
+    "product_id": 75,
+    "width": 12.7,
+    "height": 7.52,
+    "depth": 9.72
+  },
+  {
+    "product_id": 76,
+    "width": 5.92,
+    "height": 10.87,
+    "depth": 19.55
+  },
+  {
+    "product_id": 77,
+    "width": 9.7,
+    "height": 6.43,
+    "depth": 17.93
+  },
+  {
+    "product_id": 78,
+    "width": 20.03,
+    "height": 9.54,
+    "depth": 14.82
+  },
+  {
+    "product_id": 79,
+    "width": 16.6,
+    "height": 11.49,
+    "depth": 10.89
+  },
+  {
+    "product_id": 80,
+    "width": 18.21,
+    "height": 22.83,
+    "depth": 17.26
+  },
+  {
+    "product_id": 81,
+    "width": 20.84,
+    "height": 22.68,
+    "depth": 17.39
+  },
+  {
+    "product_id": 82,
+    "width": 13.76,
+    "height": 29,
+    "depth": 21.42
+  },
+  {
+    "product_id": 83,
+    "width": 27.49,
+    "height": 23.73,
+    "depth": 28.61
+  },
+  {
+    "product_id": 84,
+    "width": 22.31,
+    "height": 26.47,
+    "depth": 13.27
+  },
+  {
+    "product_id": 85,
+    "width": 9.34,
+    "height": 5.97,
+    "depth": 10.85
+  },
+  {
+    "product_id": 86,
+    "width": 5.02,
+    "height": 16.57,
+    "depth": 9.6
+  },
+  {
+    "product_id": 87,
+    "width": 23.48,
+    "height": 7.03,
+    "depth": 27.33
+  },
+  {
+    "product_id": 88,
+    "width": 17.44,
+    "height": 9.52,
+    "depth": 27
+  },
+  {
+    "product_id": 89,
+    "width": 11.75,
+    "height": 26.65,
+    "depth": 19.6
+  },
+  {
+    "product_id": 90,
+    "width": 17.45,
+    "height": 15.58,
+    "depth": 23.13
+  },
+  {
+    "product_id": 91,
+    "width": 14.37,
+    "height": 23.44,
+    "depth": 12.84
+  },
+  {
+    "product_id": 92,
+    "width": 21.43,
+    "height": 9.86,
+    "depth": 28.5
+  },
+  {
+    "product_id": 93,
+    "width": 16.65,
+    "height": 6.15,
+    "depth": 20.18
+  },
+  {
+    "product_id": 94,
+    "width": 15.39,
+    "height": 10.06,
+    "depth": 20.32
+  },
+  {
+    "product_id": 95,
+    "width": 13.46,
+    "height": 26.1,
+    "depth": 17.9
+  },
+  {
+    "product_id": 96,
+    "width": 26.06,
+    "height": 25.19,
+    "depth": 13.17
+  },
+  {
+    "product_id": 97,
+    "width": 23.11,
+    "height": 19.97,
+    "depth": 27.04
+  },
+  {
+    "product_id": 98,
+    "width": 17.69,
+    "height": 12.48,
+    "depth": 8.75
+  },
+  {
+    "product_id": 99,
+    "width": 12.68,
+    "height": 15.24,
+    "depth": 27.46
+  },
+  {
+    "product_id": 100,
+    "width": 25.79,
+    "height": 18.38,
+    "depth": 11.53
+  },
+  {
+    "product_id": 101,
+    "width": 24.88,
+    "height": 14.9,
+    "depth": 27.54
+  },
+  {
+    "product_id": 102,
+    "width": 25.25,
+    "height": 25.44,
+    "depth": 10.98
+  },
+  {
+    "product_id": 103,
+    "width": 16.02,
+    "height": 29.2,
+    "depth": 19.81
+  },
+  {
+    "product_id": 104,
+    "width": 13.63,
+    "height": 26.25,
+    "depth": 5.95
+  },
+  {
+    "product_id": 105,
+    "width": 15.4,
+    "height": 11.89,
+    "depth": 19.67
+  },
+  {
+    "product_id": 106,
+    "width": 27.69,
+    "height": 28.03,
+    "depth": 7.11
+  },
+  {
+    "product_id": 107,
+    "width": 17.86,
+    "height": 25.74,
+    "depth": 23.09
+  },
+  {
+    "product_id": 108,
+    "width": 12.49,
+    "height": 11.29,
+    "depth": 23.52
+  },
+  {
+    "product_id": 109,
+    "width": 8.8,
+    "height": 12.93,
+    "depth": 21.1
+  },
+  {
+    "product_id": 110,
+    "width": 5.26,
+    "height": 13.84,
+    "depth": 22.83
+  },
+  {
+    "product_id": 111,
+    "width": 24.76,
+    "height": 26.38,
+    "depth": 21.39
+  },
+  {
+    "product_id": 112,
+    "width": 29.84,
+    "height": 11.01,
+    "depth": 6.81
+  },
+  {
+    "product_id": 113,
+    "width": 26.23,
+    "height": 14.04,
+    "depth": 17.87
+  },
+  {
+    "product_id": 114,
+    "width": 18.3,
+    "height": 18.27,
+    "depth": 16.06
+  },
+  {
+    "product_id": 115,
+    "width": 19.33,
+    "height": 17.31,
+    "depth": 12.05
+  },
+  {
+    "product_id": 116,
+    "width": 27.31,
+    "height": 19.34,
+    "depth": 26.72
+  },
+  {
+    "product_id": 117,
+    "width": 22.5,
+    "height": 22.74,
+    "depth": 8.38
+  },
+  {
+    "product_id": 118,
+    "width": 14.05,
+    "height": 8.3,
+    "depth": 16.62
+  },
+  {
+    "product_id": 119,
+    "width": 25.23,
+    "height": 28.33,
+    "depth": 11.89
+  },
+  {
+    "product_id": 120,
+    "width": 21.83,
+    "height": 17.38,
+    "depth": 24.76
+  },
+  {
+    "product_id": 121,
+    "width": 5.29,
+    "height": 18.38,
+    "depth": 17.72
+  },
+  {
+    "product_id": 122,
+    "width": 11,
+    "height": 9.1,
+    "depth": 9.67
+  },
+  {
+    "product_id": 123,
+    "width": 12.63,
+    "height": 5.28,
+    "depth": 14.29
+  },
+  {
+    "product_id": 124,
+    "width": 21.88,
+    "height": 24.19,
+    "depth": 14.19
+  },
+  {
+    "product_id": 125,
+    "width": 7.2,
+    "height": 10.74,
+    "depth": 23.68
+  },
+  {
+    "product_id": 126,
+    "width": 6.78,
+    "height": 25.17,
+    "depth": 8.4
+  },
+  {
+    "product_id": 127,
+    "width": 13.89,
+    "height": 10.63,
+    "depth": 16.6
+  },
+  {
+    "product_id": 128,
+    "width": 25.28,
+    "height": 8.14,
+    "depth": 29.53
+  },
+  {
+    "product_id": 129,
+    "width": 25.59,
+    "height": 21.42,
+    "depth": 12.75
+  },
+  {
+    "product_id": 130,
+    "width": 24.98,
+    "height": 26.73,
+    "depth": 6.5
+  },
+  {
+    "product_id": 131,
+    "width": 13.55,
+    "height": 24.24,
+    "depth": 5.63
+  },
+  {
+    "product_id": 132,
+    "width": 23.05,
+    "height": 26.88,
+    "depth": 15.73
+  },
+  {
+    "product_id": 133,
+    "width": 27.41,
+    "height": 15.26,
+    "depth": 27.02
+  },
+  {
+    "product_id": 134,
+    "width": 14.06,
+    "height": 11.79,
+    "depth": 6.78
+  },
+  {
+    "product_id": 135,
+    "width": 19.85,
+    "height": 21.83,
+    "depth": 13.04
+  },
+  {
+    "product_id": 136,
+    "width": 22.49,
+    "height": 21.62,
+    "depth": 27.88
+  },
+  {
+    "product_id": 137,
+    "width": 6.88,
+    "height": 5.82,
+    "depth": 21.96
+  },
+  {
+    "product_id": 138,
+    "width": 14.42,
+    "height": 22.65,
+    "depth": 15.89
+  },
+  {
+    "product_id": 139,
+    "width": 23.84,
+    "height": 11.12,
+    "depth": 5.85
+  },
+  {
+    "product_id": 140,
+    "width": 27.86,
+    "height": 10.64,
+    "depth": 18.75
+  },
+  {
+    "product_id": 141,
+    "width": 15.83,
+    "height": 20.87,
+    "depth": 7.27
+  },
+  {
+    "product_id": 142,
+    "width": 28.51,
+    "height": 20.77,
+    "depth": 17.66
+  },
+  {
+    "product_id": 143,
+    "width": 27.44,
+    "height": 23.65,
+    "depth": 16.62
+  },
+  {
+    "product_id": 144,
+    "width": 6.34,
+    "height": 6.25,
+    "depth": 21.68
+  },
+  {
+    "product_id": 145,
+    "width": 15.99,
+    "height": 15.23,
+    "depth": 22.81
+  },
+  {
+    "product_id": 146,
+    "width": 19.63,
+    "height": 23.73,
+    "depth": 18.56
+  },
+  {
+    "product_id": 147,
+    "width": 28.93,
+    "height": 23.01,
+    "depth": 11.71
+  },
+  {
+    "product_id": 148,
+    "width": 24.89,
+    "height": 23.39,
+    "depth": 12.47
+  },
+  {
+    "product_id": 149,
+    "width": 10.15,
+    "height": 19.55,
+    "depth": 5.91
+  },
+  {
+    "product_id": 150,
+    "width": 28.43,
+    "height": 14.3,
+    "depth": 7.36
+  },
+  {
+    "product_id": 151,
+    "width": 8.04,
+    "height": 20.35,
+    "depth": 12.24
+  },
+  {
+    "product_id": 152,
+    "width": 17.7,
+    "height": 16.38,
+    "depth": 18.74
+  },
+  {
+    "product_id": 153,
+    "width": 17.01,
+    "height": 20.05,
+    "depth": 9.94
+  },
+  {
+    "product_id": 154,
+    "width": 18.51,
+    "height": 15.69,
+    "depth": 10.11
+  },
+  {
+    "product_id": 155,
+    "width": 19.87,
+    "height": 16.73,
+    "depth": 11.07
+  },
+  {
+    "product_id": 156,
+    "width": 26.13,
+    "height": 9.8,
+    "depth": 25.94
+  },
+  {
+    "product_id": 157,
+    "width": 19.59,
+    "height": 22.06,
+    "depth": 27.53
+  },
+  {
+    "product_id": 158,
+    "width": 16.15,
+    "height": 24.59,
+    "depth": 10.31
+  },
+  {
+    "product_id": 159,
+    "width": 17.03,
+    "height": 5.34,
+    "depth": 29.62
+  },
+  {
+    "product_id": 160,
+    "width": 6.11,
+    "height": 25.85,
+    "depth": 26.85
+  },
+  {
+    "product_id": 161,
+    "width": 15.05,
+    "height": 5.37,
+    "depth": 11.82
+  },
+  {
+    "product_id": 162,
+    "width": 24.25,
+    "height": 5.91,
+    "depth": 8.79
+  },
+  {
+    "product_id": 163,
+    "width": 26.19,
+    "height": 20.65,
+    "depth": 10.1
+  },
+  {
+    "product_id": 164,
+    "width": 11.91,
+    "height": 25.72,
+    "depth": 18.55
+  },
+  {
+    "product_id": 165,
+    "width": 24.29,
+    "height": 6.79,
+    "depth": 28.12
+  },
+  {
+    "product_id": 166,
+    "width": 23.14,
+    "height": 12.44,
+    "depth": 12.67
+  },
+  {
+    "product_id": 167,
+    "width": 19.2,
+    "height": 26.17,
+    "depth": 17.28
+  },
+  {
+    "product_id": 168,
+    "width": 16.77,
+    "height": 23.03,
+    "depth": 8.18
+  },
+  {
+    "product_id": 169,
+    "width": 19.89,
+    "height": 9.8,
+    "depth": 17.8
+  },
+  {
+    "product_id": 170,
+    "width": 19.02,
+    "height": 29.52,
+    "depth": 24.36
+  },
+  {
+    "product_id": 171,
+    "width": 7.11,
+    "height": 15.51,
+    "depth": 18.1
+  },
+  {
+    "product_id": 172,
+    "width": 14.12,
+    "height": 11.89,
+    "depth": 25.69
+  },
+  {
+    "product_id": 173,
+    "width": 28.66,
+    "height": 20.56,
+    "depth": 6.62
+  },
+  {
+    "product_id": 174,
+    "width": 21.84,
+    "height": 22.19,
+    "depth": 13.41
+  },
+  {
+    "product_id": 175,
+    "width": 14.31,
+    "height": 23.29,
+    "depth": 28.91
+  },
+  {
+    "product_id": 176,
+    "width": 29.76,
+    "height": 12.34,
+    "depth": 15.82
+  },
+  {
+    "product_id": 177,
+    "width": 7.86,
+    "height": 9.02,
+    "depth": 25.82
+  },
+  {
+    "product_id": 178,
+    "width": 6.01,
+    "height": 12.6,
+    "depth": 11.62
+  },
+  {
+    "product_id": 179,
+    "width": 17.56,
+    "height": 28.42,
+    "depth": 23.95
+  },
+  {
+    "product_id": 180,
+    "width": 28.51,
+    "height": 20.99,
+    "depth": 12.58
+  },
+  {
+    "product_id": 181,
+    "width": 26.02,
+    "height": 9.93,
+    "depth": 25.48
+  },
+  {
+    "product_id": 182,
+    "width": 14.61,
+    "height": 22.92,
+    "depth": 12.52
+  },
+  {
+    "product_id": 183,
+    "width": 8.48,
+    "height": 6.24,
+    "depth": 5.72
+  },
+  {
+    "product_id": 184,
+    "width": 14.99,
+    "height": 15.76,
+    "depth": 16.09
+  },
+  {
+    "product_id": 185,
+    "width": 21.35,
+    "height": 26.21,
+    "depth": 17
+  },
+  {
+    "product_id": 186,
+    "width": 29.12,
+    "height": 20.94,
+    "depth": 20.65
+  },
+  {
+    "product_id": 187,
+    "width": 16.38,
+    "height": 20.06,
+    "depth": 8.8
+  },
+  {
+    "product_id": 188,
+    "width": 29.43,
+    "height": 22.65,
+    "depth": 16.12
+  },
+  {
+    "product_id": 189,
+    "width": 15.21,
+    "height": 11.62,
+    "depth": 22.63
+  },
+  {
+    "product_id": 190,
+    "width": 24.77,
+    "height": 24.66,
+    "depth": 6.09
+  },
+  {
+    "product_id": 191,
+    "width": 12.5,
+    "height": 20.63,
+    "depth": 25.04
+  },
+  {
+    "product_id": 192,
+    "width": 23.23,
+    "height": 7.19,
+    "depth": 28.95
+  },
+  {
+    "product_id": 193,
+    "width": 18.85,
+    "height": 28.59,
+    "depth": 7.21
+  },
+  {
+    "product_id": 194,
+    "width": 26.1,
+    "height": 22.03,
+    "depth": 21.61
+  }
+]

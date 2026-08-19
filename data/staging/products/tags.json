@@ -1,0 +1,1458 @@
+[
+  {
+    "product_id": 1,
+    "tag": "beauty"
+  },
+  {
+    "product_id": 1,
+    "tag": "mascara"
+  },
+  {
+    "product_id": 2,
+    "tag": "beauty"
+  },
+  {
+    "product_id": 2,
+    "tag": "eyeshadow"
+  },
+  {
+    "product_id": 3,
+    "tag": "beauty"
+  },
+  {
+    "product_id": 3,
+    "tag": "face powder"
+  },
+  {
+    "product_id": 4,
+    "tag": "beauty"
+  },
+  {
+    "product_id": 4,
+    "tag": "lipstick"
+  },
+  {
+    "product_id": 5,
+    "tag": "beauty"
+  },
+  {
+    "product_id": 5,
+    "tag": "nail polish"
+  },
+  {
+    "product_id": 6,
+    "tag": "fragrances"
+  },
+  {
+    "product_id": 6,
+    "tag": "perfumes"
+  },
+  {
+    "product_id": 7,
+    "tag": "fragrances"
+  },
+  {
+    "product_id": 7,
+    "tag": "perfumes"
+  },
+  {
+    "product_id": 8,
+    "tag": "fragrances"
+  },
+  {
+    "product_id": 8,
+    "tag": "perfumes"
+  },
+  {
+    "product_id": 9,
+    "tag": "fragrances"
+  },
+  {
+    "product_id": 9,
+    "tag": "perfumes"
+  },
+  {
+    "product_id": 10,
+    "tag": "fragrances"
+  },
+  {
+    "product_id": 10,
+    "tag": "perfumes"
+  },
+  {
+    "product_id": 11,
+    "tag": "furniture"
+  },
+  {
+    "product_id": 11,
+    "tag": "beds"
+  },
+  {
+    "product_id": 12,
+    "tag": "furniture"
+  },
+  {
+    "product_id": 12,
+    "tag": "sofas"
+  },
+  {
+    "product_id": 13,
+    "tag": "furniture"
+  },
+  {
+    "product_id": 13,
+    "tag": "bedside tables"
+  },
+  {
+    "product_id": 14,
+    "tag": "furniture"
+  },
+  {
+    "product_id": 14,
+    "tag": "office chairs"
+  },
+  {
+    "product_id": 15,
+    "tag": "furniture"
+  },
+  {
+    "product_id": 15,
+    "tag": "bathroom"
+  },
+  {
+    "product_id": 16,
+    "tag": "fruits"
+  },
+  {
+    "product_id": 17,
+    "tag": "meat"
+  },
+  {
+    "product_id": 18,
+    "tag": "pet supplies"
+  },
+  {
+    "product_id": 18,
+    "tag": "cat food"
+  },
+  {
+    "product_id": 19,
+    "tag": "meat"
+  },
+  {
+    "product_id": 20,
+    "tag": "cooking essentials"
+  },
+  {
+    "product_id": 21,
+    "tag": "vegetables"
+  },
+  {
+    "product_id": 22,
+    "tag": "pet supplies"
+  },
+  {
+    "product_id": 22,
+    "tag": "dog food"
+  },
+  {
+    "product_id": 23,
+    "tag": "dairy"
+  },
+  {
+    "product_id": 24,
+    "tag": "seafood"
+  },
+  {
+    "product_id": 25,
+    "tag": "vegetables"
+  },
+  {
+    "product_id": 26,
+    "tag": "vegetables"
+  },
+  {
+    "product_id": 27,
+    "tag": "condiments"
+  },
+  {
+    "product_id": 28,
+    "tag": "desserts"
+  },
+  {
+    "product_id": 29,
+    "tag": "beverages"
+  },
+  {
+    "product_id": 30,
+    "tag": "fruits"
+  },
+  {
+    "product_id": 31,
+    "tag": "fruits"
+  },
+  {
+    "product_id": 32,
+    "tag": "dairy"
+  },
+  {
+    "product_id": 33,
+    "tag": "fruits"
+  },
+  {
+    "product_id": 34,
+    "tag": "beverages"
+  },
+  {
+    "product_id": 34,
+    "tag": "coffee"
+  },
+  {
+    "product_id": 35,
+    "tag": "vegetables"
+  },
+  {
+    "product_id": 36,
+    "tag": "health supplements"
+  },
+  {
+    "product_id": 37,
+    "tag": "vegetables"
+  },
+  {
+    "product_id": 38,
+    "tag": "grains"
+  },
+  {
+    "product_id": 39,
+    "tag": "beverages"
+  },
+  {
+    "product_id": 40,
+    "tag": "fruits"
+  },
+  {
+    "product_id": 41,
+    "tag": "household essentials"
+  },
+  {
+    "product_id": 42,
+    "tag": "beverages"
+  },
+  {
+    "product_id": 43,
+    "tag": "home decor"
+  },
+  {
+    "product_id": 43,
+    "tag": "swing"
+  },
+  {
+    "product_id": 44,
+    "tag": "home decor"
+  },
+  {
+    "product_id": 44,
+    "tag": "photo frame"
+  },
+  {
+    "product_id": 45,
+    "tag": "home decor"
+  },
+  {
+    "product_id": 45,
+    "tag": "artificial plants"
+  },
+  {
+    "product_id": 46,
+    "tag": "home decor"
+  },
+  {
+    "product_id": 46,
+    "tag": "plant accessories"
+  },
+  {
+    "product_id": 47,
+    "tag": "home decor"
+  },
+  {
+    "product_id": 47,
+    "tag": "lighting"
+  },
+  {
+    "product_id": 48,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 48,
+    "tag": "utensils"
+  },
+  {
+    "product_id": 49,
+    "tag": "drinkware"
+  },
+  {
+    "product_id": 49,
+    "tag": "cups"
+  },
+  {
+    "product_id": 50,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 50,
+    "tag": "utensils"
+  },
+  {
+    "product_id": 51,
+    "tag": "kitchen appliances"
+  },
+  {
+    "product_id": 51,
+    "tag": "blenders"
+  },
+  {
+    "product_id": 52,
+    "tag": "cookware"
+  },
+  {
+    "product_id": 52,
+    "tag": "woks"
+  },
+  {
+    "product_id": 53,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 53,
+    "tag": "cutting boards"
+  },
+  {
+    "product_id": 54,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 54,
+    "tag": "juicers"
+  },
+  {
+    "product_id": 55,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 55,
+    "tag": "slicers"
+  },
+  {
+    "product_id": 56,
+    "tag": "kitchen appliances"
+  },
+  {
+    "product_id": 56,
+    "tag": "cooktops"
+  },
+  {
+    "product_id": 57,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 57,
+    "tag": "strainers"
+  },
+  {
+    "product_id": 58,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 58,
+    "tag": "utensils"
+  },
+  {
+    "product_id": 59,
+    "tag": "drinkware"
+  },
+  {
+    "product_id": 59,
+    "tag": "glasses"
+  },
+  {
+    "product_id": 60,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 60,
+    "tag": "graters"
+  },
+  {
+    "product_id": 61,
+    "tag": "kitchen appliances"
+  },
+  {
+    "product_id": 61,
+    "tag": "blenders"
+  },
+  {
+    "product_id": 62,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 62,
+    "tag": "ice cube trays"
+  },
+  {
+    "product_id": 63,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 63,
+    "tag": "strainers"
+  },
+  {
+    "product_id": 64,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 64,
+    "tag": "cutlery"
+  },
+  {
+    "product_id": 65,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 65,
+    "tag": "storage"
+  },
+  {
+    "product_id": 66,
+    "tag": "kitchen appliances"
+  },
+  {
+    "product_id": 66,
+    "tag": "microwaves"
+  },
+  {
+    "product_id": 67,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 67,
+    "tag": "organization"
+  },
+  {
+    "product_id": 68,
+    "tag": "cookware"
+  },
+  {
+    "product_id": 68,
+    "tag": "pans"
+  },
+  {
+    "product_id": 69,
+    "tag": "dinnerware"
+  },
+  {
+    "product_id": 69,
+    "tag": "plates"
+  },
+  {
+    "product_id": 70,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 70,
+    "tag": "tongs"
+  },
+  {
+    "product_id": 71,
+    "tag": "cookware"
+  },
+  {
+    "product_id": 71,
+    "tag": "pots"
+  },
+  {
+    "product_id": 72,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 72,
+    "tag": "turners"
+  },
+  {
+    "product_id": 73,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 73,
+    "tag": "organization"
+  },
+  {
+    "product_id": 74,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 74,
+    "tag": "utensils"
+  },
+  {
+    "product_id": 75,
+    "tag": "serveware"
+  },
+  {
+    "product_id": 75,
+    "tag": "trays"
+  },
+  {
+    "product_id": 76,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 76,
+    "tag": "baking"
+  },
+  {
+    "product_id": 77,
+    "tag": "kitchen tools"
+  },
+  {
+    "product_id": 77,
+    "tag": "peelers"
+  },
+  {
+    "product_id": 78,
+    "tag": "laptops"
+  },
+  {
+    "product_id": 78,
+    "tag": "apple"
+  },
+  {
+    "product_id": 79,
+    "tag": "laptops"
+  },
+  {
+    "product_id": 80,
+    "tag": "laptops"
+  },
+  {
+    "product_id": 81,
+    "tag": "laptops"
+  },
+  {
+    "product_id": 82,
+    "tag": "laptops"
+  },
+  {
+    "product_id": 83,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 83,
+    "tag": "men's shirts"
+  },
+  {
+    "product_id": 84,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 84,
+    "tag": "men's t-shirts"
+  },
+  {
+    "product_id": 85,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 85,
+    "tag": "men's shirts"
+  },
+  {
+    "product_id": 86,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 86,
+    "tag": "men's shirts"
+  },
+  {
+    "product_id": 87,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 87,
+    "tag": "men's shirts"
+  },
+  {
+    "product_id": 88,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 88,
+    "tag": "athletic shoes"
+  },
+  {
+    "product_id": 89,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 89,
+    "tag": "sports cleats"
+  },
+  {
+    "product_id": 90,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 90,
+    "tag": "casual shoes"
+  },
+  {
+    "product_id": 91,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 91,
+    "tag": "athletic shoes"
+  },
+  {
+    "product_id": 92,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 92,
+    "tag": "casual shoes"
+  },
+  {
+    "product_id": 93,
+    "tag": "watches"
+  },
+  {
+    "product_id": 93,
+    "tag": "leather watches"
+  },
+  {
+    "product_id": 94,
+    "tag": "watches"
+  },
+  {
+    "product_id": 94,
+    "tag": "luxury watches"
+  },
+  {
+    "product_id": 95,
+    "tag": "watches"
+  },
+  {
+    "product_id": 95,
+    "tag": "luxury watches"
+  },
+  {
+    "product_id": 96,
+    "tag": "watches"
+  },
+  {
+    "product_id": 96,
+    "tag": "luxury watches"
+  },
+  {
+    "product_id": 97,
+    "tag": "watches"
+  },
+  {
+    "product_id": 97,
+    "tag": "luxury watches"
+  },
+  {
+    "product_id": 98,
+    "tag": "watches"
+  },
+  {
+    "product_id": 98,
+    "tag": "luxury watches"
+  },
+  {
+    "product_id": 99,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 99,
+    "tag": "smart speakers"
+  },
+  {
+    "product_id": 100,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 100,
+    "tag": "wireless earphones"
+  },
+  {
+    "product_id": 101,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 101,
+    "tag": "over-ear headphones"
+  },
+  {
+    "product_id": 102,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 102,
+    "tag": "wireless chargers"
+  },
+  {
+    "product_id": 103,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 103,
+    "tag": "smart speakers"
+  },
+  {
+    "product_id": 104,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 104,
+    "tag": "chargers"
+  },
+  {
+    "product_id": 105,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 105,
+    "tag": "power banks"
+  },
+  {
+    "product_id": 106,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 106,
+    "tag": "smartwatches"
+  },
+  {
+    "product_id": 107,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 107,
+    "tag": "wireless earphones"
+  },
+  {
+    "product_id": 108,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 108,
+    "tag": "phone accessories"
+  },
+  {
+    "product_id": 109,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 109,
+    "tag": "camera accessories"
+  },
+  {
+    "product_id": 110,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 110,
+    "tag": "selfie accessories"
+  },
+  {
+    "product_id": 111,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 111,
+    "tag": "selfie accessories"
+  },
+  {
+    "product_id": 112,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 112,
+    "tag": "camera accessories"
+  },
+  {
+    "product_id": 113,
+    "tag": "motorcycles"
+  },
+  {
+    "product_id": 114,
+    "tag": "motorcycles"
+  },
+  {
+    "product_id": 114,
+    "tag": "sportbikes"
+  },
+  {
+    "product_id": 115,
+    "tag": "motorcycles"
+  },
+  {
+    "product_id": 115,
+    "tag": "sportbikes"
+  },
+  {
+    "product_id": 116,
+    "tag": "motorcycles"
+  },
+  {
+    "product_id": 116,
+    "tag": "scooters"
+  },
+  {
+    "product_id": 117,
+    "tag": "motorcycles"
+  },
+  {
+    "product_id": 117,
+    "tag": "sportbikes"
+  },
+  {
+    "product_id": 118,
+    "tag": "personal care"
+  },
+  {
+    "product_id": 118,
+    "tag": "hand soap"
+  },
+  {
+    "product_id": 119,
+    "tag": "personal care"
+  },
+  {
+    "product_id": 119,
+    "tag": "body wash"
+  },
+  {
+    "product_id": 120,
+    "tag": "personal care"
+  },
+  {
+    "product_id": 120,
+    "tag": "body lotion"
+  },
+  {
+    "product_id": 121,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 121,
+    "tag": "apple"
+  },
+  {
+    "product_id": 122,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 122,
+    "tag": "apple"
+  },
+  {
+    "product_id": 123,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 123,
+    "tag": "apple"
+  },
+  {
+    "product_id": 124,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 124,
+    "tag": "apple"
+  },
+  {
+    "product_id": 125,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 125,
+    "tag": "oppo"
+  },
+  {
+    "product_id": 126,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 126,
+    "tag": "oppo"
+  },
+  {
+    "product_id": 127,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 127,
+    "tag": "oppo"
+  },
+  {
+    "product_id": 128,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 128,
+    "tag": "realme"
+  },
+  {
+    "product_id": 129,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 129,
+    "tag": "realme"
+  },
+  {
+    "product_id": 130,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 130,
+    "tag": "realme"
+  },
+  {
+    "product_id": 131,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 131,
+    "tag": "samsung galaxy"
+  },
+  {
+    "product_id": 132,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 132,
+    "tag": "samsung galaxy"
+  },
+  {
+    "product_id": 133,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 133,
+    "tag": "samsung galaxy"
+  },
+  {
+    "product_id": 134,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 134,
+    "tag": "vivo"
+  },
+  {
+    "product_id": 135,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 135,
+    "tag": "vivo"
+  },
+  {
+    "product_id": 136,
+    "tag": "smartphones"
+  },
+  {
+    "product_id": 136,
+    "tag": "vivo"
+  },
+  {
+    "product_id": 137,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 137,
+    "tag": "american football"
+  },
+  {
+    "product_id": 138,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 138,
+    "tag": "baseball"
+  },
+  {
+    "product_id": 139,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 139,
+    "tag": "baseball"
+  },
+  {
+    "product_id": 140,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 140,
+    "tag": "basketball"
+  },
+  {
+    "product_id": 141,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 141,
+    "tag": "basketball"
+  },
+  {
+    "product_id": 142,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 142,
+    "tag": "cricket"
+  },
+  {
+    "product_id": 143,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 143,
+    "tag": "cricket"
+  },
+  {
+    "product_id": 144,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 144,
+    "tag": "cricket"
+  },
+  {
+    "product_id": 145,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 145,
+    "tag": "cricket"
+  },
+  {
+    "product_id": 146,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 146,
+    "tag": "badminton"
+  },
+  {
+    "product_id": 147,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 147,
+    "tag": "football"
+  },
+  {
+    "product_id": 148,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 148,
+    "tag": "golf"
+  },
+  {
+    "product_id": 149,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 149,
+    "tag": "golf"
+  },
+  {
+    "product_id": 150,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 150,
+    "tag": "baseball"
+  },
+  {
+    "product_id": 151,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 151,
+    "tag": "tennis"
+  },
+  {
+    "product_id": 152,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 152,
+    "tag": "tennis"
+  },
+  {
+    "product_id": 153,
+    "tag": "sports equipment"
+  },
+  {
+    "product_id": 153,
+    "tag": "volleyball"
+  },
+  {
+    "product_id": 154,
+    "tag": "eyewear"
+  },
+  {
+    "product_id": 154,
+    "tag": "sunglasses"
+  },
+  {
+    "product_id": 155,
+    "tag": "eyewear"
+  },
+  {
+    "product_id": 155,
+    "tag": "sunglasses"
+  },
+  {
+    "product_id": 156,
+    "tag": "eyewear"
+  },
+  {
+    "product_id": 156,
+    "tag": "sunglasses"
+  },
+  {
+    "product_id": 157,
+    "tag": "eyewear"
+  },
+  {
+    "product_id": 157,
+    "tag": "party glasses"
+  },
+  {
+    "product_id": 158,
+    "tag": "eyewear"
+  },
+  {
+    "product_id": 158,
+    "tag": "sunglasses"
+  },
+  {
+    "product_id": 159,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 159,
+    "tag": "tablets"
+  },
+  {
+    "product_id": 160,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 160,
+    "tag": "tablets"
+  },
+  {
+    "product_id": 161,
+    "tag": "electronics"
+  },
+  {
+    "product_id": 161,
+    "tag": "tablets"
+  },
+  {
+    "product_id": 162,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 162,
+    "tag": "dresses"
+  },
+  {
+    "product_id": 163,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 163,
+    "tag": "girls' dresses"
+  },
+  {
+    "product_id": 164,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 164,
+    "tag": "dresses"
+  },
+  {
+    "product_id": 165,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 165,
+    "tag": "dresses"
+  },
+  {
+    "product_id": 166,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 166,
+    "tag": "dresses"
+  },
+  {
+    "product_id": 167,
+    "tag": "sedans"
+  },
+  {
+    "product_id": 167,
+    "tag": "vehicles"
+  },
+  {
+    "product_id": 168,
+    "tag": "sedans"
+  },
+  {
+    "product_id": 168,
+    "tag": "sports cars"
+  },
+  {
+    "product_id": 168,
+    "tag": "vehicles"
+  },
+  {
+    "product_id": 169,
+    "tag": "hatchbacks"
+  },
+  {
+    "product_id": 169,
+    "tag": "compact cars"
+  },
+  {
+    "product_id": 169,
+    "tag": "vehicles"
+  },
+  {
+    "product_id": 170,
+    "tag": "suvs"
+  },
+  {
+    "product_id": 170,
+    "tag": "vehicles"
+  },
+  {
+    "product_id": 171,
+    "tag": "minivans"
+  },
+  {
+    "product_id": 171,
+    "tag": "vehicles"
+  },
+  {
+    "product_id": 172,
+    "tag": "fashion accessories"
+  },
+  {
+    "product_id": 172,
+    "tag": "handbags"
+  },
+  {
+    "product_id": 173,
+    "tag": "fashion accessories"
+  },
+  {
+    "product_id": 173,
+    "tag": "leather bags"
+  },
+  {
+    "product_id": 174,
+    "tag": "fashion accessories"
+  },
+  {
+    "product_id": 174,
+    "tag": "designer bags"
+  },
+  {
+    "product_id": 175,
+    "tag": "fashion accessories"
+  },
+  {
+    "product_id": 175,
+    "tag": "backpacks"
+  },
+  {
+    "product_id": 176,
+    "tag": "fashion accessories"
+  },
+  {
+    "product_id": 176,
+    "tag": "handbags"
+  },
+  {
+    "product_id": 177,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 177,
+    "tag": "gowns"
+  },
+  {
+    "product_id": 178,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 178,
+    "tag": "corsets"
+  },
+  {
+    "product_id": 178,
+    "tag": "skirts"
+  },
+  {
+    "product_id": 179,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 179,
+    "tag": "corsets"
+  },
+  {
+    "product_id": 179,
+    "tag": "skirts"
+  },
+  {
+    "product_id": 180,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 180,
+    "tag": "dresses"
+  },
+  {
+    "product_id": 181,
+    "tag": "clothing"
+  },
+  {
+    "product_id": 181,
+    "tag": "suits"
+  },
+  {
+    "product_id": 182,
+    "tag": "fashion accessories"
+  },
+  {
+    "product_id": 182,
+    "tag": "earrings"
+  },
+  {
+    "product_id": 183,
+    "tag": "fashion accessories"
+  },
+  {
+    "product_id": 183,
+    "tag": "earrings"
+  },
+  {
+    "product_id": 184,
+    "tag": "fashion accessories"
+  },
+  {
+    "product_id": 184,
+    "tag": "earrings"
+  },
+  {
+    "product_id": 185,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 185,
+    "tag": "slippers"
+  },
+  {
+    "product_id": 186,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 186,
+    "tag": "heel shoes"
+  },
+  {
+    "product_id": 187,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 187,
+    "tag": "women's shoes"
+  },
+  {
+    "product_id": 188,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 188,
+    "tag": "casual shoes"
+  },
+  {
+    "product_id": 189,
+    "tag": "footwear"
+  },
+  {
+    "product_id": 189,
+    "tag": "women's shoes"
+  },
+  {
+    "product_id": 190,
+    "tag": "watches"
+  },
+  {
+    "product_id": 190,
+    "tag": "luxury watches"
+  },
+  {
+    "product_id": 191,
+    "tag": "watches"
+  },
+  {
+    "product_id": 191,
+    "tag": "luxury watches"
+  },
+  {
+    "product_id": 192,
+    "tag": "watches"
+  },
+  {
+    "product_id": 192,
+    "tag": "luxury watches"
+  },
+  {
+    "product_id": 192,
+    "tag": "women's watches"
+  },
+  {
+    "product_id": 193,
+    "tag": "watches"
+  },
+  {
+    "product_id": 193,
+    "tag": "women's watches"
+  },
+  {
+    "product_id": 194,
+    "tag": "watches"
+  },
+  {
+    "product_id": 194,
+    "tag": "women's watches"
+  }
+]
